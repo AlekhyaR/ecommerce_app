@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+<!-- 1. Created Product, category and User model, controllers and views
+2. Creates authorization without devise https://levelup.gitconnected.com/simple-authentication-guide-with-ruby-on-rails-16a6255f0be8    
+3. Creates elastic search functionality in rails https://www.youtube.com/watch?v=Pse-2ZkVaTs&list=PLjQo0sojbbxWcy_byqkbe7j3boVTQurf9
+4. Adds -->

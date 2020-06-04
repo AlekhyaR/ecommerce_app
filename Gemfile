@@ -57,5 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'pg'
 gem 'bcrypt'
 gem 'bootstrap-sass'
-# gem 'elasticsearch-rails'
-# gem 'elasticsearch-model'
+gem 'elasticsearch-rails'
+gem 'elasticsearch-model'

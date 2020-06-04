@@ -59,3 +59,5 @@ gem 'bcrypt'
 gem 'bootstrap-sass'
 gem 'elasticsearch-rails'
 gem 'elasticsearch-model'
+gem 'simple_form'
+gem "haml-rails", "~> 2.0"
